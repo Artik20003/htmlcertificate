@@ -1,3 +1,5 @@
+@media print{@page {size: landscape}}
+
 html,
 body {
   margin: 0;
