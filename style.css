@@ -2,7 +2,6 @@
   @page {
     size: landscape;
   }
-  .container {zoom: .9}
 }
 
 html,
@@ -21,6 +20,7 @@ body {
 }
 
 .container {
+  zoom: 0.9;
   border: 2px solid black;
   border-radius: 5px;
   padding: 50px 0;
