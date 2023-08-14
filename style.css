@@ -1,9 +1,9 @@
 @media print{
   @page {
-    size: landscape
+    size: landscape;
     margin: 0mm 0mm 0mm 0mm;
   }
-  /*body {transform:scale(.9);}*/
+  body>div {transform:scale(.9);}
 }
 
 html,
